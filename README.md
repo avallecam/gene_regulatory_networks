@@ -1,9 +1,11 @@
 # gene regulatory networks
 
-aplicación de teoría de grafos y autómatas finitos para 
+Aplicación de teoría de grafos y autómatas finitos para 
 simular comportamientos de
 redes de regulación génica.
+Para el curso en Biomatemática 2015-2017.
 
+## enlaces
 - diapos: <https://speakerdeck.com/avallecam/redes-de-regulacion-genica>
 - tutorial: <https://github.com/avallecam/gene_regulatory_networks/blob/main/GRN_py/UNAM_mat2.ipynb>
 - fuente de inspira/replica/cion:
